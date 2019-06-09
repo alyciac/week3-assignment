@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Shallow  from 'enzyme';
+import {shallow}  from 'enzyme';
 import List from './List';
 import Cart from './Cart';
 import './App.css';
